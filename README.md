@@ -7,8 +7,8 @@ Demo: https://www.blog.sazumiviki.com
 
 ## Download
 
-- Clone the repo: `git clone https://github.com/radity/raditian-free-hugo-theme.git`.
-- [Download from Github](https://github.com/radity/raditian-free-hugo-theme/archive/master.zip).
+- Clone the repo: `https://github.com/SazumiVicky/saoomi.git`.
+- [Download from Github](https://github.com/SazumiVicky/saoomi).
 
 ## Installation
 #### Install Hugo
