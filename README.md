@@ -16,6 +16,9 @@ Demo: https://www.blog.sazumiviki.com
     
 #### GitHub CLI
     gh repo clone SazumiVicky/saoomi
+    
+#### HTTPS
+    https://github.com/SazumiVicky/saoomi.git
 
 #### Create your personal website and run
     > hugo new site <your website's name>
