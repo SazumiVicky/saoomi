@@ -11,8 +11,11 @@ Demo: https://www.blog.sazumiviki.com
 - [Download from Github](https://github.com/SazumiVicky/saoomi).
 
 ## Installation
-#### Install Hugo
-    To use raditian-free-hugo-theme you need to install Hugo by following https://gohugo.io/getting-started/installing/.
+#### SSH
+    git@github.com:SazumiVicky/saoomi.git
+    
+#### GitHub CLI
+    gh repo clone SazumiVicky/saoomi
 
 #### Create your personal website and run
     > hugo new site <your website's name>
