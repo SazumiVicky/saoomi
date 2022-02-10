@@ -1,5 +1,5 @@
-# Raditian Free Hugo Theme
-###### Raditian Hugo Theme for Personal Websites
+# Saoomi Free Themes
+###### Saoomi Publii Theme For Your Blog
 
 A free Hugo Theme by Radity: Modern, Fast, Fresh and of course responsive.
 
