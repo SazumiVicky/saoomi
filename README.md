@@ -20,9 +20,9 @@ Demo: https://www.blog.sazumiviki.com
 
 ## License
 
-- Copyright 2020 Radity (https://radity.com/)
-- Licensed under MIT (https://github.com/radity/raditian-free-hugo-theme/blob/master/LICENSE)
+- Copyright 2020 Radity (https://sazumiviki.com/)
+- Licensed under MIT (https://github.com/SazumiVicky/saoomi/LICENSE)
 
 ## Support
 
-If you have any problem please do not hesitate to [contact us](https://radity.com/en/contact/).
+If you have any problem please do not hesitate to [contact us](mailto:hi@sazumiviki.com).
