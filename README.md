@@ -12,11 +12,9 @@ Demo: https://www.blog.sazumiviki.com
 
 ## Installation
 #### SSH
-    git@github.com:SazumiVicky/saoomi.git
-    
+    git@github.com:SazumiVicky/saoomi.git   
 #### GitHub CLI
-    gh repo clone SazumiVicky/saoomi
-    
+    gh repo clone SazumiVicky/saoomi    
 #### HTTPS
     https://github.com/SazumiVicky/saoomi.git
 
