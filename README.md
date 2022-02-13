@@ -15,7 +15,7 @@ Demo: https://www.blog.sazumiviki.com
 
 ## License
 
-- Copyright 2020 Radity (https://sazumiviki.com/)
+- Copyright 2008-2022Sazumi Viki (https://sazumiviki.com/)
 
 ## Support
 
